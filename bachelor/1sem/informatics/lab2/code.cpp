@@ -32,7 +32,7 @@ int main() {
     }
 
     // Print the final sum.
-    cout << "Sum: " << s;
+    cout << "Sum: " << s << endl;
 
     return 0;
 }
